@@ -1511,10 +1511,10 @@ Matplotlib
 
 The source notebook references the following repository:
 
-**Capstone Project — Distributed Machine Learning by Rahul Mehta**
+**Capstone Project — Distributed Machine Learning by Dhananjay Kumar Sharma**
 
 ```text
-https://github.com/rahul99554/Capstone-Project-Distributed-Machine-Learning-By-Rahul-Mehta.git
+[https://github.com/JaySharma424/Distributed-ML](https://github.com/JaySharma424/Distributed-ML)
 ```
 
 ---
